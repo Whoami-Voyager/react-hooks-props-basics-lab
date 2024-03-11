@@ -1,6 +1,6 @@
 import React from "react";
 
-function UserLink({github, linkedin}) {
+function UserLink({ github, linkedin }) {
     return (
         <div>
             <h3>Links</h3>
